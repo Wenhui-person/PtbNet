@@ -1,0 +1,13 @@
+normal
+exudation
+calcification
+nodule
+fibre_nodule
+cavity
+miliary_TB
+ILD
+ple_effu_b
+ple_effu_y
+pleuritis
+fibre_exudation
+fibre
